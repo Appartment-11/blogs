@@ -1,0 +1,43 @@
+html{
+    height: 100%;
+    margin: auto;
+    width: 100%;
+}
+header{
+    background-color:rgba(199, 173, 231, 0.069);
+    text-align: center;
+    position: relative;
+    top: -15px;
+    left: 0px;
+    z-index: -1;
+}
+header h1{
+    color:rgba(46, 33, 68, 0.84);
+    border: 6.5px solid rgba(28, 2, 55, 0.896);
+    padding: 5px 10px;
+    display: inline-block;
+    font-size: 55px;
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    left: 12px;
+    border-radius: 9.5px;
+    box-shadow: -3px 3px 5px rgba(0, 0, 0, 0.368);
+    top: 0px;
+}
+.Part li{
+    display: inline-block;
+}
+.Part li img{
+    height: 300px;
+    width: 600px;
+}
+.Part{
+    text-align: center;
+}
+footer{
+    text-align: center;
+}
+footer h3{
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}

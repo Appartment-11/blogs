@@ -1,0 +1,235 @@
+html{
+    height: 100%;
+    margin: auto;
+    width: 100%;
+}
+header{
+    background-color:rgba(199, 173, 231, 0.069);
+    text-align: center;
+    position: relative;
+    top: -15px;
+    left: 0px;
+    z-index: -1;
+}
+header h1{
+    color:rgba(30, 71, 77, 0.84);
+    border: 6.5px solid rgba(30, 71, 77, 0.84);
+    padding: 5px 10px;
+    display: inline-block;
+    font-size: 55px;
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    left: 12px;
+    border-radius: 9.5px;
+    box-shadow: -3px 3px 5px rgba(0, 0, 0, 0.368);
+    top: 0px;
+}
+main{
+    background-color: lightblue;
+}
+
+.Cap{
+    text-align: center;
+}
+.Cap h2{
+    font-size: 25px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.Cap h3{
+    font-size: 15px;
+    font-family: sans-serif;
+}
+.Cap img{
+    max-width: 100%;
+    text-align: center;
+    height: 400px;
+    border-radius: 20px;
+    
+}
+.Aqua{
+    text-align: center;
+}
+.Aqua h2{
+    font-size: 25px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.Aqua h3{
+    font-size: 15px;
+    font-family: sans-serif;
+}
+.Aqua img{
+    max-width: 100%;
+    text-align: center;
+    height: 400px;
+    border-radius: 20px;
+}
+.Pisc{
+    text-align: center;
+}
+.Pisc h2{
+    font-size: 25px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.Pisc h3{
+    font-size: 15px;
+    font-family: sans-serif;
+}
+.Pisc img{
+    max-width: 100%;
+    text-align: center;
+    height: 400px;
+    border-radius: 20px;
+}
+.Ari{
+    text-align: center;
+}
+.Ari h2{
+    font-size: 25px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.Ari h3{
+    font-size: 15px;
+    font-family: sans-serif;
+}
+.Ari img{
+    max-width: 100%;
+    text-align: center;
+    height: 400px;
+    border-radius: 20px;
+}
+.Taur{
+    text-align: center;
+}
+.Taur h2{
+    font-size: 25px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.Taur h3{
+    font-size: 15px;
+    font-family: sans-serif;
+}
+.Taur img{
+    max-width: 100%;
+    text-align: center;
+    height: 400px;
+    border-radius: 20px;
+}
+.Gem{
+    text-align: center;
+}
+.Gem h2{
+    font-size: 25px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.Gem h3{
+    font-size: 15px;
+    font-family: sans-serif;
+}
+.Gem img{
+    max-width: 100%;
+    text-align: center;
+    height: 400px;
+    border-radius: 20px;
+}
+.Can{
+    text-align: center;
+}
+.Can h2{
+    font-size: 25px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.Can h3{
+    font-size: 15px;
+    font-family: sans-serif;
+}
+.Can img{
+    max-width: 100%;
+    text-align: center;
+    height: 400px;
+    border-radius: 20px;
+}
+.Leo{
+    text-align: center;
+}
+.Leo h2{
+    font-size: 25px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.Leo h3{
+    font-size: 15px;
+    font-family: sans-serif;
+}
+.Leo img{
+    max-width: 100%;
+    text-align: center;
+    height: 400px;
+    border-radius: 20px;
+}
+.Virg{
+    text-align: center;
+}
+.Virg h2{
+    font-size: 25px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.Virg h3{
+    font-size: 15px;
+    font-family: sans-serif;
+}
+.Virg img{
+    max-width: 100%;
+    text-align: center;
+    height: 400px;
+    border-radius: 20px;
+}
+.Lib{
+    text-align: center;
+}
+.Lib h2{
+    font-size: 25px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.Lib h3{
+    font-size: 15px;
+    font-family: sans-serif;
+}
+.Lib img{
+    max-width: 100%;
+    text-align: center;
+    height: 400px;
+    border-radius: 20px;
+}
+.Sco{
+    text-align: center;
+}
+.Sco h2{
+    font-size: 25px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.Sco h3{
+    font-size: 15px;
+    font-family: sans-serif;
+}
+.Sco img{
+    max-width: 100%;
+    text-align: center;
+    height: 400px;
+    border-radius: 20px;
+}
+.Sag{
+    text-align: center;
+}
+.Sag h2{
+    font-size: 25px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.Sag h3{
+    font-size: 15px;
+    font-family: sans-serif;
+}
+.Sag img{
+    max-width: 100%;
+    text-align: center;
+    height: 400px;
+    border-radius: 20px;
+}
